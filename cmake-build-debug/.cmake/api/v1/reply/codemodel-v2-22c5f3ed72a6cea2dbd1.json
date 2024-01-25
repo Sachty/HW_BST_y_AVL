@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HW_BST_y_AVL",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HW_BST_y_AVL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HW_BST_y_AVL-Debug-66c7a970650818620fea.json",
+					"name" : "HW_BST_y_AVL",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/allxs/OneDrive/Im\u00e1genes/Estudios 2023-2/Algoritmos y estructura de datos/Code/HW_BST_y_AVL/cmake-build-debug",
+		"source" : "C:/Users/allxs/OneDrive/Im\u00e1genes/Estudios 2023-2/Algoritmos y estructura de datos/Code/HW_BST_y_AVL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
